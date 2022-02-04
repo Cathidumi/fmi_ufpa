@@ -7,10 +7,10 @@ Seu principal objetivo é utilizar esses dados para a disciplina de Projetos de 
 
 Segue abaixo algumas imagens do programa, e seu código!
 
-![TESTEAPI01](ProgramaAPI\TESTEAPI.png)
+![TESTEAPI01](https://raw.githubusercontent.com/Cathidumi/fmi_ufpa/main/ProgramaAPI/TESTEAPI.png)
 
-![TESTEAPI02](ProgramaAPI\TESTEAPI02.png)
+![TESTEAPI02](https://raw.githubusercontent.com/Cathidumi/fmi_ufpa/main/ProgramaAPI/TESTEAPI02.png)
 
-![COD01](ProgramaAPI\COD01.png)
+![COD01](https://raw.githubusercontent.com/Cathidumi/fmi_ufpa/main/ProgramaAPI/COD01.png)
 
-![COD02](ProgramaAPI\COD02.png)
+![COD02](https://raw.githubusercontent.com/Cathidumi/fmi_ufpa/main/ProgramaAPI/COD02.png)
